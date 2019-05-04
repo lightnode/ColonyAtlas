@@ -1,6 +1,6 @@
 body {
 
-    background-color: #d9c5a4;
+    background-color: #eedbbc;
     background-image: url('./img/worldmap.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -9,5 +9,9 @@ body {
  }
  
  h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ h2 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
  }
