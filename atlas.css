@@ -1,0 +1,13 @@
+body {
+
+    background-color: #d9c5a4;
+    background-image: url('./img/worldmap.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right top;
+ 
+ }
+ 
+ h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }

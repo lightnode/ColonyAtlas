@@ -1,5 +1,5 @@
 # The Colony Atlas
-## 🌅 Discover Colony
+## 🌄 Discover Colony
 _[link to initial thread](https://build.colony.io/t/discover-your-colony/184)_
 
 ### Rough Draft for Colony Descriptor Page
